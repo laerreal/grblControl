@@ -8,6 +8,7 @@
 #include <QVector3D>
 #include <QEventLoop>
 #include <QTimer>
+#include <cmath>
 
 class Util
 {

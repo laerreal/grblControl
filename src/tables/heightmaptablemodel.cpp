@@ -2,6 +2,7 @@
 // Copyright 2015 Hayrullin Denis Ravilevich
 
 #include "heightmaptablemodel.h"
+#include <cmath>
 
 HeightMapTableModel::HeightMapTableModel(QObject *parent) : QAbstractTableModel(parent)
 {
